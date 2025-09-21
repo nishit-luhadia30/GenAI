@@ -33,7 +33,6 @@ dist-ssr
 # Google Cloud
 service-account-key.json
 gcloud-key.json
-*.json
 
 # Firebase
 .firebase
